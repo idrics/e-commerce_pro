@@ -1,0 +1,36 @@
+
+h3 {
+    font-size: 50px;
+    font-family: Helvetica;
+    color: rgb(176, 88, 12);
+    text-align: center;
+    background-color: rgb(45, 24, 109);
+}
+
+span {
+    font-size: 25px;
+    color: rgb(255, 199, 151);
+    font-family: cursive;
+}
+
+#sign_in {
+    text-align: left;
+    border:3px solid blue;
+    background-color: lightblue;
+}
+
+#log_in {
+    text-align: right;
+}
+
+.marq {
+    background-color: blueviolet;
+    border: 1px solid beige;
+}
+
+footer {
+    border:2px solid black;
+    background: black;
+    color: white;
+}
+
